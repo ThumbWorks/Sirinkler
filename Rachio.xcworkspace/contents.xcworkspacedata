@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:RachioService/RachioService.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RachioModel/RachioModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SprinklerController/SprinklerController.xcodeproj">
+   </FileRef>
+</Workspace>
