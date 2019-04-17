@@ -30,7 +30,6 @@
 		5FAF8E70226528E7009FE974 /* ZoneDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FAF8E6F226528E7009FE974 /* ZoneDataSource.swift */; };
 		5FAF8E9C22652A3F009FE974 /* RachioModel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FAF8E9B22652A3F009FE974 /* RachioModel.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		5FAF8E9D22652AFC009FE974 /* RachioModel.framework in Sources */ = {isa = PBXBuildFile; fileRef = 5FAF8E9B22652A3F009FE974 /* RachioModel.framework */; };
-		5FAF8EA422652D1A009FE974 /* RachioModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FAF8EA322652D1A009FE974 /* RachioModel.swift */; };
 		5FAF8ECF22654274009FE974 /* RachioService.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5FAF8ECE22654274009FE974 /* RachioService.framework */; };
 		5FAF8ED122654608009FE974 /* Intents.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 5FAF8ED022654608009FE974 /* Intents.intentdefinition */; };
 /* End PBXBuildFile section */
@@ -101,7 +100,6 @@
 		5FAF8E66226527DA009FE974 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5FAF8E6F226528E7009FE974 /* ZoneDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoneDataSource.swift; sourceTree = "<group>"; };
 		5FAF8E9B22652A3F009FE974 /* RachioModel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = RachioModel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5FAF8EA322652D1A009FE974 /* RachioModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RachioModel.swift; sourceTree = "<group>"; };
 		5FAF8ECE22654274009FE974 /* RachioService.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = RachioService.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FAF8ED022654608009FE974 /* Intents.intentdefinition */ = {isa = PBXFileReference; lastKnownFileType = file.intentdefinition; name = Intents.intentdefinition; path = Intents/Intents.intentdefinition; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -161,7 +159,6 @@
 			children = (
 				5FA935A2226694B1005604B6 /* Config.plist */,
 				5FAF8ED022654608009FE974 /* Intents.intentdefinition */,
-				5FAF8EA322652D1A009FE974 /* RachioModel.swift */,
 				5FAF8E4E226527D9009FE974 /* SprinklerController */,
 				5FAF8E63226527DA009FE974 /* SprinklerControllerTests */,
 				5F96DCBC22655A1700608314 /* WaterZones */,
@@ -370,7 +367,6 @@
 				5FAF8E9D22652AFC009FE974 /* RachioModel.framework in Sources */,
 				5FAF8E52226527D9009FE974 /* ViewController.swift in Sources */,
 				5FAF8E70226528E7009FE974 /* ZoneDataSource.swift in Sources */,
-				5FAF8EA422652D1A009FE974 /* RachioModel.swift in Sources */,
 				5F96DCB52265553C00608314 /* WaterZoneIntentHandler.swift in Sources */,
 				5FAF8E50226527D9009FE974 /* AppDelegate.swift in Sources */,
 			);
